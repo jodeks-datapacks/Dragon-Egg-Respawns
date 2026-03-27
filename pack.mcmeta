@@ -1,0 +1,57 @@
+{
+  "pack": {
+    "min_format": [80, 0],
+    "max_format": [999, 0],
+    "pack_format": 80,
+    "supported_formats": [80, 999],
+    "description": [
+      {
+        "text": "\"Dragon Egg Respawns\" (dragon_egg_respawns)"
+      },
+      "\n",
+      {
+        "translate": "dragon_egg_respawns.description",
+        "fallback": "Makes the dragon egg respawn every time the Ender Dragon is defeated",
+        "color": "#aaaaaa"
+      },
+      "\n\n",
+      {
+        "translate": "jodek.version",
+        "fallback": "Version"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "1.0.0",
+        "color": "#55ff55"
+      },
+      {
+        "text": " "
+      },
+      {
+        "translate": "jodek.for_minecraft",
+        "fallback": "for Minecraft"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "1.21.6+",
+        "color": "#55ff55"
+      },
+      "\n",
+      {
+        "translate": "jodek.by",
+        "fallback": "by"
+      },
+      {
+        "text": " "
+      },
+      {
+        "text": "Jodek",
+        "color": "#ffff55"
+      }
+    ]
+  }
+}

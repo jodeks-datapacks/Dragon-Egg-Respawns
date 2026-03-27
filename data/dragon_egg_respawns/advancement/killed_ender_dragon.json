@@ -1,0 +1,15 @@
+{
+  "criteria": {
+    "tick": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "minecraft:ender_dragon"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "dragon_egg_respawns:app/respawn_egg"
+  }
+}
