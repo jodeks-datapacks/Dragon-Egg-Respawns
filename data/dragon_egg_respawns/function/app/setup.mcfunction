@@ -4,6 +4,8 @@ execute unless score &dragon_egg_respawns_advancements jodek.config = &dragon_eg
 
 scoreboard objectives add dragon_egg_respawns.image dummy
 
+scoreboard objectives add dragon_egg_respawns.calc dummy
+
 advancement revoke @a only dragon_egg_respawns:killed_ender_dragon
 
 # Print the image

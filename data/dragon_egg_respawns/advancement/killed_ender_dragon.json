@@ -10,6 +10,6 @@
     }
   },
   "rewards": {
-    "function": "dragon_egg_respawns:app/respawn_egg"
+    "function": "dragon_egg_respawns:app/respawn_egg/start"
   }
 }
